@@ -1,0 +1,11 @@
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.AssemblyInfoInputs.cache
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.AssemblyInfo.cs
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.csproj.CoreCompileInputs.cache
+C:\Users\soumu\source\repos\MUCE\UseCase\bin\Debug\net6.0\UseCase.deps.json
+C:\Users\soumu\source\repos\MUCE\UseCase\bin\Debug\net6.0\UseCase.dll
+C:\Users\soumu\source\repos\MUCE\UseCase\bin\Debug\net6.0\UseCase.pdb
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.dll
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\refint\UseCase.dll
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\UseCase.pdb
+C:\Users\soumu\source\repos\MUCE\UseCase\obj\Debug\net6.0\ref\UseCase.dll
