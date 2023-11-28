@@ -12,7 +12,12 @@ namespace Test.Domain
     internal class PolygonTest
     {
         [Category("Unit")]
+        [Author("Dante Schiavi", "dante.schiavi@muralis.com.br")]
         [TestCaseSource(nameof(ValidCoordinateCases))]
+        //[Explicit]
+        //[Ignore("It's depracated")]
+        //[MaxTime(100)]
+        //[Repeat(25)]
         public void Should_Create_Polygon(List<Coordinate> coordinates)
         {
             //Act
